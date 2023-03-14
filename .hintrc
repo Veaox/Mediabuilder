@@ -8,6 +8,7 @@
       {
         "aria-required-children": "off"
       }
-    ]
+    ],
+    "highest-available-document-mode": "off"
   }
 }
