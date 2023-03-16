@@ -1,3 +1,6 @@
  @tailwind base;
  @tailwind components;
  @tailwind utilities;
+ .bgbuilder{
+    background-image: url(https://mediabuilder.se/wp-content/uploads/2022/08/Mediabuilder-people.png);
+  }
